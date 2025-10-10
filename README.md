@@ -1,3 +1,2 @@
-# portfolio
+# Portfolio
 This repository contains my projects. 
-# Welcome
