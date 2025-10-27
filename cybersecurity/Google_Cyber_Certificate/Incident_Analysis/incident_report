@@ -1,0 +1,19 @@
+Incident Report Analysis Practice
+
+Summary: The organization’s network was hit by a DDoS attack that flooded it with ICMP packets. This caused the internal systems to slow down and eventually stop responding for about two hours. Once the issue was identified, the team acted quickly to contain it and restore access to the network.
+
+
+Identify: After things were under control, the team ran a full network audit to figure out what went wrong. They discovered that the firewall hadn’t been properly configured, which allowed unrestricted ICMP traffic to get through. That’s what made the attack possible.
+
+
+Protect: To prevent something like this from happening again, new firewall rules were set up to limit ICMP traffic and verify source IP addresses. The team also decided to do more regular network checks and employee training on spotting potential security risks.
+
+
+Detect: Network monitoring software was installed to catch unusual traffic patterns in real time. The company also added an IDS/IPS system to automatically flag or block suspicious traffic before it can do damage.
+
+
+Respond: During the attack, the team blocked the ICMP traffic, shut down non-essential services, and focused on getting critical systems back online. They’re also working on a clearer response plan so everyone knows exactly what to do if it happens again.
+
+
+Recover: After the attack ended, systems were restored and the network was stabilized. Moving forward, the company plans to create more frequent backups, review what was learned from the incident, and update security configurations regularly.
+
