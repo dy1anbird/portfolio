@@ -7,4 +7,3 @@ This repo is being managed 100% in the terminal to practice Linux/command line.
 - This includes all the projects that were completed while taking the Cybersecurity Certificate.  
 - Practice Audits
 - Common Tools Practice
-- 
