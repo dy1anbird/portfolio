@@ -1,6 +1,6 @@
 # Portfolio
 This repository contains my projects from school, certificates, and some personal projects.  
-This repo is being managed 100% in the terminal to practice Linux/command line practice. 
+This repo is being managed 100% in the terminal to practice Linux/command line. 
 
 ## Cybersecurity  
 - Google Cybersecurtiy Certificate  
