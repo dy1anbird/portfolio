@@ -1,0 +1,15 @@
+Loaded 300 customers.
+Loaded 198 items.
+
+Enter customer number: 715608
+Customer: Vergil Heelis
+Enter item numbers to purchase (0 to finish):
+Item number: 11105
+  Beef - Tenderloin - Aa - $5.99
+Item number: 0
+
+Summary:
+  Items purchased: 1
+  Total cost: $5.99
+
+Process finished with exit code 0
