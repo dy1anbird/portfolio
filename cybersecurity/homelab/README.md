@@ -6,11 +6,11 @@ Its designed to demonstrate system administration, networking, and cybersecurity
 ---
 
 # Overview
-| Component | Description |
-| Host Machine | Dell OptiPlex 7030 (16GB RAM, 256GB SSD) |
-| OS | Ubunt Server 24.04 |
-| Tools | Docker, Nginx, SSH, UFW, Netdata |
-| Other Devices | Chromebook (Client), MacBook Pro (management) |
+| Component | Description |  
+| Host Machine | Dell OptiPlex 7030 (16GB RAM, 256GB SSD) |  
+| OS | Ubunt Server 24.04 |  
+| Tools | Docker, Nginx, SSH, UFW, Netdata |  
+| Other Devices | Chromebook (Client), MacBook Pro (management) |  
 
 ---
 
