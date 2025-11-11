@@ -12,3 +12,8 @@ I am motivated to learning how to safeguard and protect myself and others in the
 - This includes all the projects that were completed while taking the Cybersecurity Certificate.  
 - Practice Audits
 - Common Tools Practice
+
+### Programming
+- Programming projects done primarily in school classes.
+- Python and C++
+- Each folder contains all the files for that project.
